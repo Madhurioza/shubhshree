@@ -1,0 +1,19 @@
+body{
+	padding: 0;
+	margin: 0;
+}
+
+.background-primary{
+	height: 200px;
+}
+
+p{
+	font-size: 25px;
+	margin: 10px;
+	
+}
+
+.Background-primary{
+	height: 100px;
+	background-color: #cc0000;
+}

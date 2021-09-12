@@ -1,0 +1,46 @@
+.background-primary{
+	height: 350px;
+}
+
+.Background-primary{
+	height: 100px;
+	background-color:#cc0000;
+}
+
+.box-ser{
+	
+	height: 500px;
+	background-color:#ff794d;
+	padding: 30px;
+	transition: 1s;
+
+}
+.box-ser:hover{
+	transform: scale(1.2);
+
+}
+.box-ser img{
+	margin-left: 110px;
+	height: 80px;
+	margin-bottom: 20px;
+}
+
+.box-ser li{
+	font-size: 23px;
+	text-align: left;
+	font-family: airel;
+	color: black;
+	font-style: bold;
+}
+
+
+/*.margin .margin-m-bottom .box-ser:nth-child(even){
+	background-color: red;
+
+
+}
+.margin .margin-m-bottom:nth-child(odd){
+	background-color: black;
+
+
+}*/
